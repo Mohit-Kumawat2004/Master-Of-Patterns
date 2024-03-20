@@ -16,10 +16,10 @@ int main()
 
     for(int i = 1; i <= n; i++)
     {
-        //Change in inner Loop , start from 0 to i
+        /*Change in inner Loop , start from 0 to i*/
         for(int j = 0; j < i; j++)
         {
-           //If true then print 0 and 1 else print white spaces 
+           /*If true then print 0 and 1 else print white spaces */
             cout << ((i+j)% 2) << " ";
         }
 
