@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //basic Triange Pattern 
+    //Basic Triangle Pattern 
     int n;
     cout<<"Enter Number : ";
     cin>>n;
