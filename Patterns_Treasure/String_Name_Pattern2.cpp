@@ -6,8 +6,6 @@ int main()
 {
     //The char array to hold the string and print a single char at a time.
     //Reverse String Order in Rectangle Pattern 
-    
-    
     char arr[] = "MOHIT";
 
     int len = strlen(arr);
@@ -26,9 +24,7 @@ int main()
 }
 
 
-
 /*
-
 
 Output : 
 
@@ -38,6 +34,7 @@ T I H O M
 T I H O M 
 T I H O M 
 T I H O M 
+
 
 
 
