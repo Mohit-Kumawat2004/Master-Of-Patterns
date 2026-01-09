@@ -7,21 +7,21 @@ int main()
     //Inverted String Name Array
     
     
-    char arr[] = "MOHIT KUMAWAT";
+    char arr[] = "MOHIT KUMAWAT"; 
 
-    int len = strlen(arr);
+    int len = strlen(arr); 
     int i, j;
 
-    for (i = len - 1 ; i >= 0; i--)
+    for (i = len - 1 ; i >= 0; i--) 
     {
-        for (j = 0; j <= i; j++)
+        for (j = 0; j <= i; j++) 
         {
             cout << arr[j] << " ";
         }
-        cout << endl;
-    }
+        cout << endl; 
+    } 
 
-    return 0;
+    return 0; 
 }
 
 
@@ -45,6 +45,7 @@ M O H I
 M O H 
 M O 
 M 
+
 
 
 
